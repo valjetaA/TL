@@ -1,0 +1,15 @@
+C:\Users\Dasha\source\repos\TL2022\TL2022\bin\Debug\net6.0\TL2022.exe
+C:\Users\Dasha\source\repos\TL2022\TL2022\bin\Debug\net6.0\TL2022.deps.json
+C:\Users\Dasha\source\repos\TL2022\TL2022\bin\Debug\net6.0\TL2022.runtimeconfig.json
+C:\Users\Dasha\source\repos\TL2022\TL2022\bin\Debug\net6.0\TL2022.dll
+C:\Users\Dasha\source\repos\TL2022\TL2022\bin\Debug\net6.0\ref\TL2022.dll
+C:\Users\Dasha\source\repos\TL2022\TL2022\bin\Debug\net6.0\TL2022.pdb
+C:\Users\Dasha\source\repos\TL2022\TL2022\obj\Debug\net6.0\TL2022.csproj.AssemblyReference.cache
+C:\Users\Dasha\source\repos\TL2022\TL2022\obj\Debug\net6.0\TL2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dasha\source\repos\TL2022\TL2022\obj\Debug\net6.0\TL2022.AssemblyInfoInputs.cache
+C:\Users\Dasha\source\repos\TL2022\TL2022\obj\Debug\net6.0\TL2022.AssemblyInfo.cs
+C:\Users\Dasha\source\repos\TL2022\TL2022\obj\Debug\net6.0\TL2022.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\source\repos\TL2022\TL2022\obj\Debug\net6.0\TL2022.dll
+C:\Users\Dasha\source\repos\TL2022\TL2022\obj\Debug\net6.0\ref\TL2022.dll
+C:\Users\Dasha\source\repos\TL2022\TL2022\obj\Debug\net6.0\TL2022.pdb
+C:\Users\Dasha\source\repos\TL2022\TL2022\obj\Debug\net6.0\TL2022.genruntimeconfig.cache
